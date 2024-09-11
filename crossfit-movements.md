@@ -1,7 +1,7 @@
 # Crossfit Movements
 
 ## A
-[The Abmat Sit-Up](https://www.crossfit.com/essentials/the-abmat-sit-up){:target="_blank"}   
+[The Abmat Sit-Up](https://www.crossfit.com/essentials/the-abmat-sit-up)   
 [The Air Squat](https://www.crossfit.com/essentials/the-air-squat)
 
 ## B
