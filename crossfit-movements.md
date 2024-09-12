@@ -52,7 +52,7 @@
 [GHD Back Extension](https://www.crossfit.com/essentials/the-ghd-back-extension)  
 [GHD Hip and Back Extension](https://www.crossfit.com/essentials/the-ghd-hip-and-back-extension)  
 [Hip, Back, and Hip-Back Extensions](https://www.crossfit.com/essentials/hip-back-and-hip-back-extensions)  
-[GHD Hip Back and Hip Back Extension](https://www.crossfit.com/essentials/the-ghd-hip-back-and-hip-back-extension)  
+[GHD Hip Back and Hip Back Extension](https://www.crossfit.com/essentials/hip-back-and-hip-back-extensions)  
 [GHD Hip Extension](https://www.crossfit.com/essentials/the-ghd-hip-extension)  
 [GHD Sit-Up](https://www.crossfit.com/essentials/the-ghd-sit-up)  
 [The Glide Kip](https://www.crossfit.com/essentials/the-glide-kip)  
