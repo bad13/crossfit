@@ -5,21 +5,21 @@
 [The Air Squat](https://www.crossfit.com/essentials/the-air-squat)
 
 ## B
-[The Back Scale](https://www.crossfit.com/essentials/the-back-scale)  
+[The Back Scale](https://www.crossfit.com/essentials/back-scales-progression)  
 [The Back Squat](https://www.crossfit.com/essentials/the-back-squat)  
-[The Barbell Front Rack Lunge](https://www.crossfit.com/essentials/the-barbell-front-rack-lunge)  
+[The Barbell Front Rack Lunge](https://www.crossfit.com/essentials/barbell-front-rack-lunge)  
 [The Bench Press](https://www.crossfit.com/essentials/the-bench-press)  
 [The Box Jump](https://www.crossfit.com/essentials/the-box-jump)  
 [The Box Step-Up](https://www.crossfit.com/essentials/the-box-step-up)  
-[The Burpee](https://www.crossfit.com/essentials/the-burpee)  
+[The Burpee](https://www.crossfit.com/essentials/the-burpee-2)  
 [The Burpee Box Jump Over](https://www.crossfit.com/essentials/the-burpee-box-jump-over)  
 [The Butterfly Pull-Up](https://www.crossfit.com/essentials/the-butterfly-pull-up)
 
 ## C
 [The Chest-to-Wall Handstand Push-Up](https://www.crossfit.com/essentials/the-chest-to-wall-handstand-push-up)  
 [The Clean](https://www.crossfit.com/essentials/the-clean)  
-[The Clean and Jerk](https://www.crossfit.com/essentials/the-clean-and-jerk)  
-[The Clean and Push Jerk](https://www.crossfit.com/essentials/the-clean-and-push-jerk)
+[The Clean and Jerk](https://www.crossfit.com/essentials/the-clean-2)  
+[The Clean and Push Jerk](https://www.crossfit.com/essentials/the-squat-clean-and-push-jerk)
 
 ## D
 [The Deadlift](https://www.crossfit.com/essentials/the-deadlift)  
@@ -27,25 +27,25 @@
 [The Double Under](https://www.crossfit.com/essentials/the-double-under)  
 [The Dumbbell Clean](https://www.crossfit.com/essentials/the-dumbbell-clean)  
 [The Dumbbell Deadlift](https://www.crossfit.com/essentials/the-dumbbell-deadlift)  
-[The Dumbbell Farmer’s Carry](https://www.crossfit.com/essentials/the-dumbbell-farmers-carry)  
+[The Dumbbell Farmer’s Carry](https://www.crossfit.com/essentials/the-farmer-carry)  
 [The Dumbbell Front Rack Lunge](https://www.crossfit.com/essentials/the-dumbbell-front-rack-lunge)  
 [The Dumbbell Front Squat](https://www.crossfit.com/essentials/the-dumbbell-front-squat)  
 [The Dumbbell Hang Clean](https://www.crossfit.com/essentials/the-dumbbell-hang-clean)  
 [The Dumbbell Hang Power Clean](https://www.crossfit.com/essentials/the-dumbbell-hang-power-clean)  
 [The Dumbbell Overhead Squat](https://www.crossfit.com/essentials/the-dumbbell-overhead-squat)  
-[The Dumbbell Overhead Walking Lunge](https://www.crossfit.com/essentials/the-dumbbell-overhead-walking-lunge)  
+[The Dumbbell Overhead Walking Lunge](https://www.crossfit.com/essentials/dumbbell-overhead-walking-lunge)  
 [The Dumbbell Power Clean](https://www.crossfit.com/essentials/the-dumbbell-power-clean)  
 [The Dumbbell Power Snatch](https://www.crossfit.com/essentials/the-dumbbell-power-snatch)  
 [The Dumbbell Push Jerk](https://www.crossfit.com/essentials/the-dumbbell-push-jerk)  
 [The Dumbbell Push Press](https://www.crossfit.com/essentials/the-dumbbell-push-press)  
-[The Dumbbell Squat Snatch](https://www.crossfit.com/essentials/the-dumbbell-squat-snatch)  
+[The Dumbbell Squat Snatch](https://www.crossfit.com/essentials/the-dumbbell-snatch)  
 [The Dumbbell Thruster](https://www.crossfit.com/essentials/the-dumbbell-thruster)  
 [The Dumbbell Turkish Get-Up](https://www.crossfit.com/essentials/the-dumbbell-turkish-get-up)
 
 ## F
-[The Forward Roll from Support](https://www.crossfit.com/essentials/the-forward-roll-from-support)  
+[The Forward Roll from Support](https://www.crossfit.com/essentials/forward-roll-from-support)  
 [The Freestanding Handstand Push-Up](https://www.crossfit.com/essentials/the-freestanding-handstand-push-up)  
-[The Front Scale](https://www.crossfit.com/essentials/the-front-scale)  
+[The Front Scale](https://www.crossfit.com/essentials/front-scales-progression)  
 [The Front Squat](https://www.crossfit.com/essentials/the-front-squat)
 
 ## G
@@ -59,11 +59,11 @@
 [The Good Morning](https://www.crossfit.com/essentials/the-good-morning)
 
 ## H
-[The Handstand](https://www.crossfit.com/essentials/the-handstand)  
-[The Handstand Pirouette](https://www.crossfit.com/essentials/the-handstand-pirouette)  
-[Handstand Push-Up Variations](https://www.crossfit.com/essentials/the-handstand-push-up-variations)  
+[The Handstand](https://www.crossfit.com/essentials/freestanding-handstand)  
+[The Handstand Pirouette](https://www.crossfit.com/essentials/pirouettes)  
+[Handstand Push-Up Variations](https://www.crossfit.com/essentials/handstand-push-up-variations)  
 [The Handstand Walk](https://www.crossfit.com/essentials/the-handstand-walk)  
-[The Hang Clean](https://www.crossfit.com/essentials/the-hang-clean)  
+[The Hang Clean](https://www.crossfit.com/essentials/the-hang-squat-clean)  
 [The Hang Clean and Push Jerk](https://www.crossfit.com/essentials/the-hang-clean-and-push-jerk)  
 [The Hanging L-Sit](https://www.crossfit.com/essentials/the-hanging-l-sit)  
 [The Hang Power Clean](https://www.crossfit.com/essentials/the-hang-power-clean)  
