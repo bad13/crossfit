@@ -120,9 +120,9 @@
 ## S
 [The Shoot Through](https://www.crossfit.com/essentials/the-shoot-through)  
 [The Shoulder Press](https://www.crossfit.com/essentials/the-shoulder-press)  
-[The Single Leg Squat (Pistol)](https://www.crossfit.com/essentials/the-single-leg-squat-pistol)  
+[The Single Leg Squat (Pistol)](https://www.crossfit.com/essentials/the-single-leg-squat)  
 [The Single Under](https://www.crossfit.com/essentials/the-single-under)  
-[The Skin the Cat](https://www.crossfit.com/essentials/the-skin-the-cat)  
+[The Skin the Cat](https://www.crossfit.com/essentials/skin-the-cat)  
 [The Slam Ball](https://www.crossfit.com/essentials/the-slam-ball)  
 [The Snatch](https://www.crossfit.com/essentials/the-snatch)  
 [The Snatch Balance](https://www.crossfit.com/essentials/the-snatch-balance)  
@@ -130,25 +130,25 @@
 [The Split Clean](https://www.crossfit.com/essentials/the-split-clean)  
 [The Split Jerk](https://www.crossfit.com/essentials/the-split-jerk)  
 [The Split Snatch](https://www.crossfit.com/essentials/the-split-snatch)  
-[The Straddle Press to Handstand](https://www.crossfit.com/essentials/the-straddle-press-to-handstand)  
+[The Straddle Press to Handstand](https://www.crossfit.com/essentials/the-straddle-press)  
 [The Strict Bar Muscle-Up](https://www.crossfit.com/essentials/the-strict-bar-muscle-up)  
 [The Strict Chest-to-Bar Pull-Up](https://www.crossfit.com/essentials/the-strict-chest-to-bar-pull-up)  
 [The Strict Handstand Push-Up](https://www.crossfit.com/essentials/the-strict-handstand-push-up)  
-[The Strict Knees-to-Elbows](https://www.crossfit.com/essentials/the-strict-knees-to-elbows)  
+[The Strict Knees-to-Elbows](https://www.crossfit.com/essentials/the-strict-knees-to-elbow)  
 [The Strict Muscle-Up](https://www.crossfit.com/essentials/the-strict-muscle-up)  
 [The Strict Pull-Up](https://www.crossfit.com/essentials/the-strict-pull-up)  
 [The Strict Toes-to-Bar](https://www.crossfit.com/essentials/the-strict-toes-to-bar)  
 [The Strict Toes-to-Rings](https://www.crossfit.com/essentials/the-strict-toes-to-rings)  
 [The Sumo Deadlift](https://www.crossfit.com/essentials/the-sumo-deadlift)  
 [The Sumo Deadlift High Pull](https://www.crossfit.com/essentials/the-sumo-deadlift-high-pull)  
-[The Swing to Backward Roll to Support](https://www.crossfit.com/essentials/the-swing-to-backward-roll-to-support)
+[The Swing to Backward Roll to Support](https://www.crossfit.com/essentials/backward-roll-to-support)
 
 ## T
 [The Thruster](https://www.crossfit.com/essentials/the-thruster)
 
 ## W
 [The Walking Lunge](https://www.crossfit.com/essentials/the-walking-lunge)  
-[The Wall Ball Shot](https://www.crossfit.com/essentials/the-wall-ball-shot)  
+[The Wall Ball Shot](https://www.crossfit.com/essentials/the-wall-ball)  
 [The Wall Walk](https://www.crossfit.com/essentials/the-wall-walk)  
 [The Windshield Wiper](https://www.crossfit.com/essentials/the-windshield-wiper)
 
