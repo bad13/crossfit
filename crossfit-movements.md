@@ -102,7 +102,7 @@
 
 ## P
 [The Power Clean](https://www.crossfit.com/essentials/the-power-clean)  
-[The Power Clean and Split Jerk](https://www.crossfit.com/essentials/the-power-clean-and-split-jerk)  
+[The Power Clean and Split Jerk](https://www.crossfit.com/essentials/the-power-clean-split-jerk)  
 [The Power Snatch](https://www.crossfit.com/essentials/the-power-snatch)  
 [The Pull Over](https://www.crossfit.com/essentials/the-pull-over)  
 [The Push Jerk](https://www.crossfit.com/essentials/the-push-jerk)  
