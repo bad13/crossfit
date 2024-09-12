@@ -115,12 +115,12 @@
 [The Ring Row](https://www.crossfit.com/essentials/the-ring-row)  
 [The Rope Climb (Basket)](https://www.crossfit.com/essentials/the-rope-climb-basket)  
 [The Rope Climb (Wrapping)](https://www.crossfit.com/essentials/the-rope-climb-wrapping)  
-[The Row](https://www.crossfit.com/essentials/the-row)
+[The Row](https://www.crossfit.com/essentials/rowing)
 
 ## S
 [The Shoot Through](https://www.crossfit.com/essentials/the-shoot-through)  
 [The Shoulder Press](https://www.crossfit.com/essentials/the-shoulder-press)  
-[The Single Leg Squat (Pistol)](https://www.crossfit.com/essentials/the-single-leg-squat-(pistol))  
+[The Single Leg Squat (Pistol)](https://www.crossfit.com/essentials/the-single-leg-squat-pistol)  
 [The Single Under](https://www.crossfit.com/essentials/the-single-under)  
 [The Skin the Cat](https://www.crossfit.com/essentials/the-skin-the-cat)  
 [The Slam Ball](https://www.crossfit.com/essentials/the-slam-ball)  
