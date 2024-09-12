@@ -113,8 +113,8 @@
 [The Ring Dip](https://www.crossfit.com/essentials/the-ring-dip)  
 [The Ring Push-Up](https://www.crossfit.com/essentials/the-ring-push-up)  
 [The Ring Row](https://www.crossfit.com/essentials/the-ring-row)  
-[The Rope Climb (Basket)](https://www.crossfit.com/essentials/the-rope-climb-(basket))  
-[The Rope Climb (Wrapping)](https://www.crossfit.com/essentials/the-rope-climb-(wrapping))  
+[The Rope Climb (Basket)](https://www.crossfit.com/essentials/the-rope-climb-basket)  
+[The Rope Climb (Wrapping)](https://www.crossfit.com/essentials/the-rope-climb-wrapping)  
 [The Row](https://www.crossfit.com/essentials/the-row)
 
 ## S
